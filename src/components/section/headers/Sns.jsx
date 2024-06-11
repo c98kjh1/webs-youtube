@@ -1,4 +1,4 @@
-import { snsLink } from '../../../assets/js/header'
+import { snsLink } from '../../../data/header'
 
 const Sns = () => {
     return (
